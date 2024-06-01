@@ -1,7 +1,7 @@
-// const stats = [
+ const stats = [
 //  { label: 'Expected royalties every 24 hours', value: '1 SOL' },
 //  { label: 'Expected distribution per month', value: '1 SOL' },
-// ]
+ ]
 
 const FinancialMechanicsAndMission = () => {
   return (
