@@ -8,6 +8,7 @@ const navigation = [
   { href: "#team", name: "Team" },
   { href: "#roadmap", name: "Roadmap" },
   { href: "#tokenomics", name: "Tokenomics" },
+  { href: "#nftseries0", name: "Nft Series 0 Investor Round" },
 ]
 
 const Header = () => {
