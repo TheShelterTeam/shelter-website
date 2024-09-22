@@ -1,4 +1,4 @@
-const NftSeries0 = () => {
+const Nftseries0 = () => {
   return (
     <div className="mx-auto max-w-7xl px-6 sm:mt-0 lg:px-8 " id="Nftseries0">
       <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
