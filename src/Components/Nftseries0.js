@@ -13,7 +13,7 @@ const Nftseries0 = () => {
 •Each NFT gives one 10% discount on a future NFT in series 1-4. 
 •Voting right for naming the Shelter Puppies! And more!
   
-To become an investor and enjoy all perks, please visit our mint page at https://truffle.wtf/project/shelter-official-nft-series-0
+To become an investor and enjoy all perks, please visit our mint page at <href>https://truffle.wtf/project/shelter-official-nft-series-0</href>
             </p>
           </div>
         </div>
