@@ -20,16 +20,16 @@ const TEAM_MEMBERS = [
     description: "Danish native Rasmus Kompresser embraced cryptocurrencies in 2017, motivated by a desire for financial independence and disillusionment with traditional banking inequities. As COO, Rasmus is committed to creating a strong, value-driven community that supports both equitable investment opportunities and animal welfare.",
   },
   {
-    image: '/images/team/rgy.webp',
-    name: "Brian rgy",
-    title: "Lead Programmer and Head of Cyber Security",
-    description: "Brian has 15+ years experience in spreadsheet/database development, graphic design, video editing, and website development, and more recently, 2+ years working in Python and bot development. He's been traveling the world since 2017, sticking to unbeaten paths and exploring as much as he can. His crypto journey began in the hype of 2022, but his love for it started when he found Genopets, and learned how to gain insights from blockchain scraping. Now, he loves working remotely while traveling the world and finding amazing projects like Shelter to bring his creative bot-development skills to the test, all while helping one of his first loves - animals!",
-  },
-  {
     image: '/images/team/stephen.webp',
     name: "Stephen Martin",
     title: "Chief Marketing Officer",
     description: "French expatriate in Scotland, Stephen Martin delved deep into the crypto world in 2021, quickly establishing himself as a key community figure. As CMO, Stephen's strategy revolves around community engagement and value creation, ensuring that every initiative under Shelter not only supports global animal welfare but also empowers the community.",
+  },
+  {
+    image: '/images/team/rgy.webp',
+    name: "Brian rgy",
+    title: "Lead Programmer and Head of Cyber Security",
+    description: "Brian has 15+ years experience in spreadsheet/database development, graphic design, video editing, and website development, and more recently, 2+ years working in Python and bot development. He's been traveling the world since 2017, sticking to unbeaten paths and exploring as much as he can. His crypto journey began in the hype of 2022, but his love for it started when he found Genopets, and learned how to gain insights from blockchain scraping. Now, he loves working remotely while traveling the world and finding amazing projects like Shelter to bring his creative bot-development skills to the test, all while helping one of his first loves - animals!",
   }
 ]
 
