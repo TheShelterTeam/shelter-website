@@ -7,13 +7,13 @@ const Nftseries0 = () => {
           <div data-aos="fade-up" className="lg:w-full lg:max-w-2xl lg:flex-auto">
             <p className="text-xl leading-8 text-white">
               The Shelter Series 0 NFT has a unique design made specifically for Shelter and it's main goal of sheltering animals around the world! Series 0 is meant as the way to become an investor in the project and comes with the following perks:
-•$45 worth of $SHLTR token (Investors Cliff/Vesting scheme).
-•Future WL spots guaranteed.
-•Discord Holders Chat access. 
-•Each NFT gives one 10% discount on a future NFT in series 1-4. 
-•Voting right for naming the Shelter Puppies! And more!
+<br>•$45 worth of $SHLTR token (Investors Cliff/Vesting scheme).
+<br>•Future WL spots guaranteed.
+<br>•Discord Holders Chat access. 
+<br>•Each NFT gives one 10% discount on a future NFT in series 1-4. 
+<br>•Voting right for naming the Shelter Puppies! And more!<br>
   
-To become an investor and enjoy all perks, please visit our mint page at <link>https://truffle.wtf/project/shelter-official-nft-series-0</link>
+To become an investor and enjoy all perks, please visit our mint page <a href="https://truffle.wtf/project/shelter-official-nft-series-0"> here </a>
             </p>
           </div>
         </div>
