@@ -10,7 +10,7 @@ const TEAM_MEMBERS = [
   {
     image: '/images/team/luthar.webp',
     name: "Andreas Luthar",
-    title: "Chief Technology Officer",
+    title: "Chief Technology Officer / Chief Marketing Officer",
     description: "A pioneer in the crypto mining scene, Andreas Luthar transitioned from a decade-long mining career to programming in 2022. With his roots in Sweden, Andreas applies his technical acumen to develop robust, scalable solutions for Shelter. His journey from managing automated manufacturing programs to spearheading blockchain development epitomizes a dynamic shift towards impactful technology.",
   },
   {
@@ -22,7 +22,7 @@ const TEAM_MEMBERS = [
   {
     image: '/images/team/stephen.webp',
     name: "Stephen Martin",
-    title: "Chief Marketing Officer",
+    title: "Marketing and Project Advisor",
     description: "French expatriate in Scotland, Stephen Martin delved deep into the crypto world in 2021, quickly establishing himself as a key community figure. As CMO, Stephen's strategy revolves around community engagement and value creation, ensuring that every initiative under Shelter not only supports global animal welfare but also empowers the community.",
   },
   {
