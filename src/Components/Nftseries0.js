@@ -15,10 +15,10 @@ const Nftseries0 = () => {
 <h2 data-aos="fade-up" className="text-3xl font-bold tracking-tight text-gold sm:text-4xl">Become a part of history</h2><br />
 <p className="text-xl leading-8 text-white">    
 Becoming an investor means so much more than just owning a digital piece of art, you help animals like these live better lives!  <br />
-    <img src="/images/ShelterPuppies0.jpg" className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Shelter Puppies' /><br /><br />
+    <img src="/images/ShelterPuppies0.jpg" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Puppies' /><br /><br />
 And by doing so, you become a part of history because ShelterOnSol is the first crypto token/NFT project with in-house games development aimed at helping animals worldwide!<br />
 To become an investor and enjoy all perks, please visit our mint page <a href="https://truffle.wtf/project/shelter-official-nft-series-0"> <font color="blue"> here </font> </a><br />
-Don't miss your chance to become a part of history! <br /> <img src="/images/ShelterNFT_S0.png" className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Shelter Series 0 NFT' /><br />
+Don't miss your chance to become a part of history! <br /> <img src="/images/ShelterNFT_S0.png" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Series 0 NFT' /><br />
             </p>
           </div>
         </div>
