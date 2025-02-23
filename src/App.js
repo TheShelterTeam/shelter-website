@@ -9,6 +9,7 @@ import Team from './Components/Team';
 import Roadmap from './Components/Roadmap';
 import Tokenomics from './Components/Tokenomics';
 import Nftseries0 from './Components/Nftseries0';
+import Mission from './Components/Mission';
 import Footer from './Components/Footer';
 import { useEffect } from 'react';
 
@@ -28,6 +29,7 @@ export default function App() {
         <Roadmap />
         <Tokenomics />
         <Nftseries0 />
+        <Mission />
 
       </main>
 
