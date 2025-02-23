@@ -7,13 +7,18 @@ const Nftseries0 = () => {
           <div data-aos="fade-up" className="lg:w-full lg:max-w-2xl lg:flex-auto">
             <p className="text-xl leading-8 text-white">
               The Shelter Series 0 NFT has a unique design made specifically for Shelter and it's main goal of sheltering animals around the world! Series 0 is meant as the way to become an investor in the project and comes with the following perks:
-<br />•$45 worth of $SHLTR token (Investors Cliff/Vesting scheme).
+<br /><br />•$45 worth of $SHLTR token at our TGE (Investors Cliff/Vesting scheme).
 <br />•Future WL spots guaranteed.
-<br />•Discord Holders Chat access. 
+<br />•Discord Holders Chat access with exclusive input into the projects future. 
 <br />•Each NFT gives one 10% discount on a future NFT in series 1-4. 
-<br />•Voting right for naming the Shelter Puppies! And more!<br />
-  
-To become an investor and enjoy all perks, please visit our mint page <a href="https://truffle.wtf/project/shelter-official-nft-series-0"> <font color="blue"> here </font> </a>
+<br />•Guaranteed spot in the upcoming Shelter games beta! And more!<br /><br /></p>
+<h2 data-aos="fade-up" className="text-3xl font-bold tracking-tight text-gold sm:text-4xl">Become a part of history</h2><br />
+<p className="text-xl leading-8 text-white">    
+Becoming an investor means so much more than just owning a digital piece of art, you help animals like these live better lives!  <br />
+    <img src="/images/ShelterPuppies0.jpg" className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Shelter Puppies' /><br /><br />
+And by doing so, you become a part of history because ShelterOnSol is the first crypto token/NFT project with in-house games development aimed at helping animals worldwide!<br />
+To become an investor and enjoy all perks, please visit our mint page <a href="https://truffle.wtf/project/shelter-official-nft-series-0"> <font color="blue"> here </font> </a><br />
+Don't miss your chance to become a part of history! <br /> <img src="/images/ShelterNFT_S0.png" className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Shelter Series 0 NFT' /><br />
             </p>
           </div>
         </div>
