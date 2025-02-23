@@ -1,10 +1,10 @@
 const ROADMAP_ITEMS = [
-  { title: "Q-3 2024 *Ongoing*", description: "Token private and public Presale + Marketing push" },
-  { title: "Q-1 2025", description: "Token generation event" },
-  { title: "Q-2 2025", description: "NFT Collection Series 1 mint" },
-  { title: "Q-3 2025", description: "Real World animal services launch" },
-  { title: "Q-4 2025", description: "NFT Collection Series 2 mint" },
+  { title: "2024 *Ongoing*", description: "Token private and public Presale + Marketing push" },
+  { title: "Q-3 2025", description: "Token generation event" },
+  { title: "Q-4 2025", description: "NFT Collection Series 1 mint" },
+  { title: "2025", description: "Real World animal services launch" },
   { title: "2025", description: "Shelter game app beta release" },
+  { title: "2026", description: "NFT Collection Series 2 mint" },
   { title: "Q-1 2026", description: "Worldwide platform connected" },
 ]
 
