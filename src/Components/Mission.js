@@ -2,7 +2,7 @@ const Mission = () => {
   return (
     <div className="mx-auto max-w-7xl px-6 sm:mt-0 lg:px-8 " id="mission">
       <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
-        <h2 data-aos="fade-up" className="text-3xl font-bold tracking-tight text-gold sm:text-4xl"><br />Our Mission</h2>
+        <h2 data-aos="fade-up" className="text-3xl font-bold tracking-tight text-gold sm:text-4xl"><br />Mission Rescatapelos</h2>
         <div className="mt-6 flex flex-col gap-x-8 gap-y-20 lg:flex-row">
           <div data-aos="fade-up" className="lg:w-full lg:max-w-2xl lg:flex-auto">
             <p className="text-xl leading-8 text-white">
