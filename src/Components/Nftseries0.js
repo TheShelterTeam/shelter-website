@@ -12,14 +12,6 @@ const Nftseries0 = () => {
 <br />•Discord Holders Chat access with exclusive input into the projects future. 
 <br />•Each NFT gives one 10% discount on a future NFT in series 1-4. 
 <br />•Guaranteed spot in the upcoming Shelter games beta! And more!<br /><br />
-            </p>
-          </div>
-        </div>
-    
-        <h2 data-aos="fade-up" className="text-3xl font-bold tracking-tight text-gold sm:text-4xl"><br />Become a part of history</h2>
-        <div className="mt-6 flex flex-col gap-x-8 gap-y-20 lg:flex-row">
-          <div data-aos="fade-up" className="lg:w-full lg:max-w-2xl lg:flex-auto">
-            <p className="text-xl leading-8 text-white">    
 Becoming an investor means so much more than just owning a digital piece of art, you help animals like these live better lives!  <br />
     <img src="/images/ShelterPuppies0.jpg" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Puppies' /><br />
 And by doing so, you become a part of history because ShelterOnSol is the first crypto token/NFT project with in-house games development aimed at helping animals worldwide!<br />
