@@ -7,12 +7,12 @@ const Tokenomics = () => {
 
       <div data-aos="fade-up" className="flex flex-wrap flex-col gap-2 justify-between items-center bg-[#3b3b3b] rounded-xl shadow py-4">
         <h2 className="text-xl font-bold tracking-tight text-white sm:text-2xl">Distribution</h2>
-        <img src="/images/tokenomics/distribution.png" className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Tokenomics Distribution' />
+        <img src={`${process.env.PUBLIC_URL}/images/tokenomics/distribution.png`} className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Tokenomics Distribution' />
       </div>
 
       <div data-aos="fade-up" className="flex flex-wrap flex-col gap-2 justify-between items-center bg-white rounded-xl shadow py-4">
         <h2 className="text-xl font-bold tracking-tight text-gold sm:text-2xl">Vesting Schedule</h2>
-        <img src="/images/tokenomics/vesting.png" className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Tokenomics Vesting' />
+        <img src={`${process.env.PUBLIC_URL}/images/tokenomics/vesting.png`} className="w-[80%] max-w-[700px] mx-auto lg:w-auto" alt='Tokenomics Vesting' />
       </div>
     </div>
   )
