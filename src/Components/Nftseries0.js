@@ -13,10 +13,10 @@ const Nftseries0 = () => {
 <br />•Each NFT gives one 10% discount on a future NFT in series 1-4. 
 <br />•Guaranteed spot in the upcoming Shelter games beta! And more!<br /><br />
 Becoming an investor means so much more than just owning a digital piece of art, you help animals like these live better lives!  <br />
-    <img src="/images/ShelterPuppies0.jpg" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Puppies' /><br />
+    <img src={`${process.env.PUBLIC_URL}/images/ShelterPuppies0.jpg`} className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Puppies' /><br />
 And by doing so, you become a part of history because ShelterOnSol is the first crypto token/NFT project with in-house games development aimed at helping animals worldwide!<br />
 To become an investor and enjoy all perks, please visit our mint page <a href="https://truffle.wtf/project/shelter-official-nft-series-0"> <font color="blue"> here </font> </a><br />
-Don't miss your chance to become a part of history! <br /><br /> <img src="/images/ShelterNFT_S0.png" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Series 0 NFT' />
+Don't miss your chance to become a part of history! <br /><br /> <img src={`${process.env.PUBLIC_URL}/images/ShelterNFT_S0.png`} className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Shelter Series 0 NFT' />
             </p>
           </div>
         </div>
