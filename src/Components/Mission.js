@@ -7,7 +7,7 @@ const Mission = () => {
           <div data-aos="fade-up" className="lg:w-full lg:max-w-2xl lg:flex-auto">
             <p className="text-xl leading-8 text-white">
 What is our mission? Simply put, helping animals around the world. We are starting by helping Jorge at Rescatapelos with funds for different improvements.<br />
-<img src="/images/Rescatapelos.jpg" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Rescatapelos' /><br />
+<img src={`${process.env.PUBLIC_URL}/images/Rescatapelos.jpg} className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Rescatapelos' /><br />
 The animals on this picture were all in poor condition or strays needing care. Jorge never thought twice about taking them in. People like him is why this project exists! We all want to do good for animals suffering no matter where they live.<br />
 Since we started our community has helped Jorge get money to repair Rescatapelos from damages after several storms. Fallen trees, hails so big they destroyed roofs and sadly killed a few of his animals.. and that is just two examples of where Shelter made a difference for the animals at Rescatapelos. <br />
 <img src="/images/Rescatapelos flees.jpg" className="w-[80%] max-w-[700px] rounded-xl mx-auto lg:w-auto" alt='Rescatapelos fleas' /><br />
