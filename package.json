@@ -1,6 +1,5 @@
 {
   "name": "shelter-ui",
-  "homepage": "https://www.shelteronsol.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
